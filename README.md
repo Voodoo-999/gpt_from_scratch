@@ -12,7 +12,7 @@ Train the model on your own text file and generate new text with it.
 
 ## Features
 - Train a GPT on any text file you provide.
-- Minimal implementation with token + positional embeddings and multi-head self-attention.
+- Minimal implementation with char level token + positional embeddings and multi-head self-attention.
 - Fully in Colab — no setup required.
 
 ## Notes
