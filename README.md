@@ -1,6 +1,6 @@
 # Simple GPT from Scratch
 
-A super simple GPT (Generative Pretrained Transformer) implemented entirely in a **Google Colab notebook**.  
+A super simple GPT (Generative Pretrained Transformer) implemented entirely in a **Google Colab notebook** based on the video "GPT from scracth" made by 'Andrej Karpathy'.  
 Train the model on your own text file and generate new text with it.
 
 ## How it works
